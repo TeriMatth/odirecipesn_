@@ -1,0 +1,65 @@
+*{
+	background: #ff66ee;
+	
+}
+
+/* Styling the recipe picture */
+
+.one{
+	background-color: #eeffce;
+	width: 100vw;
+}
+
+
+.recipe-pic{
+	border-radius: 50%;
+	padding-left: 40px;
+}
+
+.title{
+	text-align: center;
+	font-family: "Impact", Times, serif;
+}
+
+.title, .first-para, .head1{
+	background-color: #eeefef;
+}
+.two{
+	background-color: #eeefef;
+}
+
+.title2, .ingre {
+	background-color: #efefef;
+}
+
+.ingre li, .three{
+	background-color: #efefef;
+}
+
+
+/* STYLING THE FOURTH SECTION */
+.four{
+	background-color: #eeffdf;
+}
+
+.steps, .ordered{
+	background-color: #ffffff;
+}
+
+  .ordered li{
+	background-color: #eeffdf;
+}
+
+.steps{
+	padding-left: 30px;
+}
+
+/*.four li{
+	background-color: #feffdf;
+	margin-left: 5px
+	width: 100vw;
+}*/
+footer{
+	text-align: center;
+	font-size: 12px;
+}
